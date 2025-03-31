@@ -5,4 +5,5 @@
 * 2025 
 # Introducción
 Este sistema se usará para la gestión de datos de un pequeño centro de salud, aplicando los principios de la Programación orientada a objetos (POO)
-# Anexos
+# Diagramas y diseños
+> Introducción
