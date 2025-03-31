@@ -6,4 +6,4 @@
 # Introducción
 Este sistema se usará para la gestión de datos de un pequeño centro de salud, aplicando los principios de la Programación orientada a objetos (POO)
 # Diagramas y diseños
-[Introducción]
+[Introducción] (https://github.com/RodrigoRivas89/SistemaGestionTurnos/blob/main/README.md#introducci%C3%B3n)
