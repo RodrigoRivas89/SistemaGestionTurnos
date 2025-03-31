@@ -4,4 +4,4 @@
 * Velazquez Matias 
 * 2025 
 # Introducción
-erere
+Este sistema se usará para la gestión de datos de un pequeño centro de salud, aplicando los principios de la Programación orientada a objetos (POO)
