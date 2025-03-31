@@ -6,3 +6,4 @@
 # Introducción
 Este sistema se usará para la gestión de datos de un pequeño centro de salud, aplicando los principios de la Programación orientada a objetos (POO)
 # Diagramas y diseños
+[Anexos](https://github.com/RodrigoRivas89/Anexos?tab=readme-ov-file#anexos)
