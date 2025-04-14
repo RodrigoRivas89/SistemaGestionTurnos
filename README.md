@@ -9,3 +9,5 @@ Este sistema se usará para la gestión de datos de un pequeño centro de salud,
 [Anexos](https://github.com/RodrigoRivas89/Anexos/blob/main/anexos.md#anexos)
 
 [Diagramas UML](https://github.com/RodrigoRivas89/DiagramasUML/blob/main/DiagramasUML.md#diagramasuml)
+
+[Herramientas agile](https://github.com/RodrigoRivas89/Herramientas-agile/blob/main/Herramientas%20agile.md#herramientas-agile)
