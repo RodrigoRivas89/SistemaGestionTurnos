@@ -6,8 +6,8 @@
 # Introducción
 Un pequeño centro de salud necesita ayuda con la gestion de turnos usando una herramienta que se nos pidio, este sistema se usará para la gestión de datos de ese centro de salud, aplicando los principios de la Programación orientada a objetos (POO)
 # Diagramas y diseños
-[Anexos](https://github.com/RodrigoRivas89/SistemaGestionTurnos/blob/main/anexos.md#anexos)
++ [Anexos](https://github.com/RodrigoRivas89/SistemaGestionTurnos/blob/main/anexos.md#anexos)
 
-[Diagramas UML](https://github.com/RodrigoRivas89/SistemaGestionTurnos/blob/main/diagramasUML.md#diagramasuml)
++ [Diagramas UML](https://github.com/RodrigoRivas89/SistemaGestionTurnos/blob/main/diagramasUML.md#diagramasuml)
 
-[Herramientas agile](https://github.com/RodrigoRivas89/SistemaGestionTurnos/blob/main/herramientas_agile.md#herramientas-agile)
++ [Herramientas agile](https://github.com/RodrigoRivas89/SistemaGestionTurnos/blob/main/herramientas_agile.md#herramientas-agile)
